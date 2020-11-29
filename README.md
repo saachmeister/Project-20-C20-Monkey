@@ -1,1 +1,2 @@
-# Project-20-C20-Monkey
+# p5.play-boilerplate
+Boiler plate for p5.play
